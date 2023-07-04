@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+### Hinzugefügt RGM ###
 **.xml
 **.iml
 
