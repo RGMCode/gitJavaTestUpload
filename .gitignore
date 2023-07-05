@@ -6,6 +6,7 @@ out/
 ### Hinzugefügt RGM 4. July 2023 ###
 .idea/**.xml
 .idea/**.iml
+.idea/.gitignore
 
 ### Eclipse ###
 .apt_generated
